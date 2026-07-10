@@ -117,8 +117,6 @@ Data_Analyst_Project_Tracker-SQL
 - Highest Budget Project
 - Complete Project Report
 
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I learned:
